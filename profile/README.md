@@ -1,12 +1,4 @@
-<!--
-  EDGE404 GitHub org 门面 README（预备稿）
-  org 名已定：edge404-studio（Bryan 2026-06-11 拍板；名字已验证空闲）。
-  用法：Bryan 在 github.com/account/organizations/new 创建 org "edge404-studio"（Free plan）后，
-  楔建公开仓库 edge404-studio/.github，把本目录 profile/README.md 原样放入并推送，
-  内容即显示在 org 主页顶部。
--->
-
-# EDGE404
+﻿# EDGE404
 
 **The page you're looking for doesn't exist yet. We build it.**
 你要找的页面尚不存在——我们负责把它造出来。
